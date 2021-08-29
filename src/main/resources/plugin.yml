@@ -1,0 +1,8 @@
+name: BindingCursePatch
+main: com.entiv.${name}.BindingCursePatch
+version: ${version}
+api-version: 1.13
+
+commands:
+  BindingCursePatch:
+    description: do something
